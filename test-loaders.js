@@ -1,5 +1,5 @@
 const path = require('path');
-const sass = require('node-sass');
+const sass = require('sass');
 
 const result = sass.renderSync({
 	file: '__tests__/asserts.scss',

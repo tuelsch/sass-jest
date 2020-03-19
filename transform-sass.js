@@ -1,6 +1,6 @@
 const path = require('path');
 const thermatic = require('sass-thematic');
-const sass = require('node-sass');
+const sass = require('sass');
 
 let baseDescribes = [];
 let stack = [];

@@ -19,7 +19,7 @@
     "jest": "^23.1.0"
   },
   "dependencies": {
-    "node-sass": "^4.9.0",
+    "sass": "^1.26.3",
     "sass-thematic": "^2.0.4"
   },
   "jest": {
